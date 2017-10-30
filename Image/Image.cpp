@@ -5,8 +5,8 @@
 // Date:       July 2nd, 2017
 \\
 // Overview: Implementation for a lightweight wrapper for the
-// OpenCV Mat class. This class is made specifically to be used
-\\ in the CLImage tool.
+\\ OpenCV Mat class. This class is made specifically to be used
+// in the CLImage tool.
 \\
 // ***************************************************************/
 
